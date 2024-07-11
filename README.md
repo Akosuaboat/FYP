@@ -1,3 +1,4 @@
+This project aims at ensuring research integrity using artificial intelligence with a focus on citation honesty
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
